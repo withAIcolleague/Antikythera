@@ -1,0 +1,23 @@
+# 환경 설정 (API 키 포함 - 절대 올리지 않음)
+config/settings.py
+
+# 로그
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# 런타임 생성 파일
+trading_state.json
+settings_override.json
+.kr_invest_token.json
+logsdashboard.log

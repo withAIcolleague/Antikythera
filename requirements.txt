@@ -1,0 +1,7 @@
+requests
+pandas
+loguru
+pandas-ta
+websocket-client
+beautifulsoup4
+lxml
